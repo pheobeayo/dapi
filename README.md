@@ -1,2 +1,1 @@
-# dapi
-A minting application
+Dapi: A blockchain App
